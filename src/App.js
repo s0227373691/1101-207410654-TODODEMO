@@ -5,9 +5,9 @@ function App() {
   return (
     <div className="App">
       <h1>My Todos</h1>
-      <Todo_54 text='Learn React' />
-      <Todo_54 text='Learn SQL' />
-      <Todo_54 text='Learn NextJS' />
+      <Todo_54 text='Learn web1' />
+      <Todo_54 text='Learn web2' />
+      <Todo_54 text='Learn web3' />
     </div>
   );
 }
