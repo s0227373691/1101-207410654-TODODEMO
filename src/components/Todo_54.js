@@ -2,7 +2,7 @@ import React,{useState} from 'react'
 import Modal_54 from './Modal_54'
 import Backdrop_54 from './Backdrop_54'
 
-const Todo = props => {
+const Todo_54 = props => {
     const [showModal, setShowModal] = useState(false)
     const showModalHandler = () => setShowModal(true)
     const closeModalHandler = () => setShowModal(false)
@@ -20,4 +20,4 @@ const Todo = props => {
     )
 }
 
-export default Todo
+export default Todo_54
